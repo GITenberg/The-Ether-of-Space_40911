@@ -1,0 +1,31 @@
+_repo: The-Ether-of-Space_40911
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lodge, Oliver, Sir
+    aliases:
+    - Lodge, Sir Oliver J.
+    - Lodge, Oliver Joseph, Sir
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '31912'
+    url: http://www.gutenberg.org/2009/agents/31912
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Lodge
+description: ''
+gutenberg_issued: '2012-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40911'
+  lccn: 09013944
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ether (Space)'
+- !lcc 'QC'
+title: The Ether of Space
+url: http://www.gutenberg.org/ebooks/40911
